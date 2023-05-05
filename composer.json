@@ -1,0 +1,17 @@
+{
+    "name": "malik/wasabi",
+    "description": "wasabi s3 storage",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wasabi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "malkhan",
+            "email": "malkhan.malik@capanicus.com"
+        }
+    ],
+    "require": {}
+}
