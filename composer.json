@@ -1,5 +1,5 @@
 {
-    "name": "malik/wasabi",
+    "name": "mak07/wasabi",
     "description": "wasabi s3 storage",
     "type": "library",
     "autoload": {
@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "malkhan",
-            "email": "malkhan.malik@capanicus.com"
+            "email": "malkhanmalik@gmail.com"
         }
     ],
     "require": {}
